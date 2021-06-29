@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/Plywood.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fc6eff0dc309aee64652a9c091b80b7/jetified-Plywood/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fc6eff0dc309aee64652a9c091b80b7/jetified-Plywood/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fc6eff0dc309aee64652a9c091b80b7/jetified-Plywood/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

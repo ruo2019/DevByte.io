@@ -17,7 +17,6 @@
 package com.example.android.devbyteviewer
 
 import android.app.Application
-import timber.log.Timber
 
 /**
  * Override application to setup background work via WorkManager
@@ -32,6 +31,5 @@ class DevByteApplication : Application() {
      */
     override fun onCreate() {
         super.onCreate()
-        Timber.plant(Timber.DebugTree())
     }
 }
