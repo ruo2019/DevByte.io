@@ -1,0 +1,570 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+MERGED from [Plywood.aar] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\4fc6eff0dc309aee64652a9c091b80b7\jetified-Plywood\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fc5356c2cf9f145b7e21027ac2b60e11\databinding-adapters-4.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\5b05c895f31549c55774382bf7dc1326\databinding-runtime-4.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime-ktx:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\629ecd85527a3dbc2ef82519ce12e2d2\work-runtime-ktx-2.7.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\edde82a3a3bada68d53e3b7d6f67a761\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\4632c3052ee0164db46cbf8a6658ea2f\navigation-ui-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\e9ed7994c38c90953841859c1d799bb5\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1959317306efb7017033fa8dbbefe890\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\debcd223364316ea26a4992334c0a784\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\b8ebec0244f9ed9dc3241e9f81de8dc3\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fece36835ddcbdb36896fef5c8416967\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a9ed32bbbc909c37aab5c6887ad25bc9\jetified-lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9677ec01c6de4732d4cb5333b3e861a0\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a5b31df8eafe12eddd5f62855a6a75bb\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fcb66b2e2ee473bc05d414150fef48ab\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\4fa6e9c63e5ce6fd72035587c8b1db8e\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9fc97b3526104553d73c5e40e3d6aa46\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0b8cba45fc339d36a1edf18b3cb1bf02\navigation-common-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6e09cc7e14b65d4beca219f63d551e5a\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6d44aad87437e2261a7dac75fd63191b\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fc4c1e413e92bddb517631ddc45040f3\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\be8b3f08ea62e3094dd230f087659c7c\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1faab07be8c91ba89fcfe243941c3770\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3447cd9fa472e0d71ba02218171294e5\jetified-viewbinding-4.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1fc4ffe877829d47773377d4461ba9ed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\c29ba0517b44e0cd0747be6b563a6b36\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9dc8c8c80000187236192e64c3403e3e\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9e47944ba516859f4b70836000dd576e\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\ca23a85d0f93359ac87be3a8821193c4\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\c8c91219ff6b2890fe275415cd6a334b\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\f3547f987360741be529efbe58ecaadf\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a34664ef4edbffd3f4b1c84b1bfc8234\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3c41c7c1888f6e0c3cc570fb0d00c7fe\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\ba9acce1a78141b69de4c7e5a929d5a1\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\feaa52f4ce6b7a399332b13c32d85fe6\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\804baaa19aebf4ae96f8a291d63eb7bf\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\b20b6e7645190b571ce32ea7a8ca0ae8\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a30aa37f357531d5d3c6468df14437f8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\93c1ac03067aa7a060dc8ec504e6cd26\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\41097b2e7b4849ef18a8faaf470af93c\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\d43dc3eebec8dc7344bdddd3b709e666\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\ea948680fc1029a5c5c9690b7f312355\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6ee9becff7a7cc2c8818dd0266055245\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\333db6cd639c6a0876ea29d58be354f8\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3ff27da300b81242be69f3d75d166010\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\e3ed7f641bae9ea80abf5c0db859506d\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3b5d12ce0eea08739c778842b0db1849\navigation-common-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\8892a9c25acd4c36f9df4d6dfa73177c\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a45c6f2e0ba4b9149a1cccc4ecb71f18\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\f5ca9502ec65f5f616fe1c6a45289b7c\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\c5b33cad22cc40b2c8895845b0092cfc\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\edff7343ec942ed573547a50f38dfb94\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\dad1120c8092fd8b5e20b4b6c5cefd7f\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\62f3afb1896945826b4117eae7037368\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\10d50eacd27163c6a3a294ad2ee9ca32\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\23c512ddfc2ba97e93d605cbae0c4ad6\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6a4174c52388a40e7dfa3043732f1bce\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0a8733ed0bc31d322c9a0dcca9aca8e3\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\076cbbc53fde27d2aae282562eecbdd7\lifecycle-livedata-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\36d0742c2597aecfdad6251c9ca445fd\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\bff90840bdfae9b6f89cbecc92c57a28\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1574aa8adc94f33593141b6102c45d9a\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\88727d1fb0d03aa1c9d30d270fff0f15\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\031b2f6b146848f6faee983e3dff6b60\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6aa3bc5feac089396f96694b738fe971\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\f1bda069cc0ebf7379fed866c8700b0a\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9590a4bb01e134567fdbc8c4073e2582\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\d2b637ac9810df88c1c40113091c2642\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\bdb55a2b05f00a730cbfcf032da6ccc3\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\779496e50676ed764d67e01207ac20c6\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\2c0308a05d49b9539fff1110c101f6bf\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\49ef2b9ac74c80fc629a81e6f351bb25\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:20:5-48
+		INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+		INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+		INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:22:22-64
+application
+ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:24:5-40:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a5b31df8eafe12eddd5f62855a6a75bb\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a5b31df8eafe12eddd5f62855a6a75bb\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fcb66b2e2ee473bc05d414150fef48ab\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fcb66b2e2ee473bc05d414150fef48ab\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6d44aad87437e2261a7dac75fd63191b\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6d44aad87437e2261a7dac75fd63191b\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fc4c1e413e92bddb517631ddc45040f3\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fc4c1e413e92bddb517631ddc45040f3\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\be8b3f08ea62e3094dd230f087659c7c\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\be8b3f08ea62e3094dd230f087659c7c\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1faab07be8c91ba89fcfe243941c3770\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1faab07be8c91ba89fcfe243941c3770\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\8892a9c25acd4c36f9df4d6dfa73177c\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\8892a9c25acd4c36f9df4d6dfa73177c\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a45c6f2e0ba4b9149a1cccc4ecb71f18\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a45c6f2e0ba4b9149a1cccc4ecb71f18\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\edff7343ec942ed573547a50f38dfb94\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\edff7343ec942ed573547a50f38dfb94\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1574aa8adc94f33593141b6102c45d9a\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1574aa8adc94f33593141b6102c45d9a\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\031b2f6b146848f6faee983e3dff6b60\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\031b2f6b146848f6faee983e3dff6b60\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\8892a9c25acd4c36f9df4d6dfa73177c\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:28:9-41
+	tools:ignore
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:32:9-48
+	android:roundIcon
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:29:9-54
+	android:icon
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:25:9-43
+activity#com.example.android.devbyteviewer.ui.DevByteActivity
+ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:33:9-39:20
+	android:name
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:33:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+MERGED from [Plywood.aar] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\4fc6eff0dc309aee64652a9c091b80b7\jetified-Plywood\AndroidManifest.xml:5:5-7:41
+MERGED from [Plywood.aar] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\4fc6eff0dc309aee64652a9c091b80b7\jetified-Plywood\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fc5356c2cf9f145b7e21027ac2b60e11\databinding-adapters-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fc5356c2cf9f145b7e21027ac2b60e11\databinding-adapters-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\5b05c895f31549c55774382bf7dc1326\databinding-runtime-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\5b05c895f31549c55774382bf7dc1326\databinding-runtime-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\629ecd85527a3dbc2ef82519ce12e2d2\work-runtime-ktx-2.7.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\629ecd85527a3dbc2ef82519ce12e2d2\work-runtime-ktx-2.7.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\edde82a3a3bada68d53e3b7d6f67a761\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\edde82a3a3bada68d53e3b7d6f67a761\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\4632c3052ee0164db46cbf8a6658ea2f\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\4632c3052ee0164db46cbf8a6658ea2f\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\e9ed7994c38c90953841859c1d799bb5\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\e9ed7994c38c90953841859c1d799bb5\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1959317306efb7017033fa8dbbefe890\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1959317306efb7017033fa8dbbefe890\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\debcd223364316ea26a4992334c0a784\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\debcd223364316ea26a4992334c0a784\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\b8ebec0244f9ed9dc3241e9f81de8dc3\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\b8ebec0244f9ed9dc3241e9f81de8dc3\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fece36835ddcbdb36896fef5c8416967\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fece36835ddcbdb36896fef5c8416967\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a9ed32bbbc909c37aab5c6887ad25bc9\jetified-lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a9ed32bbbc909c37aab5c6887ad25bc9\jetified-lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9677ec01c6de4732d4cb5333b3e861a0\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9677ec01c6de4732d4cb5333b3e861a0\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a5b31df8eafe12eddd5f62855a6a75bb\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a5b31df8eafe12eddd5f62855a6a75bb\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fcb66b2e2ee473bc05d414150fef48ab\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fcb66b2e2ee473bc05d414150fef48ab\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\4fa6e9c63e5ce6fd72035587c8b1db8e\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\4fa6e9c63e5ce6fd72035587c8b1db8e\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9fc97b3526104553d73c5e40e3d6aa46\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9fc97b3526104553d73c5e40e3d6aa46\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0b8cba45fc339d36a1edf18b3cb1bf02\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0b8cba45fc339d36a1edf18b3cb1bf02\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6e09cc7e14b65d4beca219f63d551e5a\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6e09cc7e14b65d4beca219f63d551e5a\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6d44aad87437e2261a7dac75fd63191b\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6d44aad87437e2261a7dac75fd63191b\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fc4c1e413e92bddb517631ddc45040f3\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\fc4c1e413e92bddb517631ddc45040f3\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\be8b3f08ea62e3094dd230f087659c7c\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\be8b3f08ea62e3094dd230f087659c7c\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1faab07be8c91ba89fcfe243941c3770\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1faab07be8c91ba89fcfe243941c3770\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3447cd9fa472e0d71ba02218171294e5\jetified-viewbinding-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3447cd9fa472e0d71ba02218171294e5\jetified-viewbinding-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1fc4ffe877829d47773377d4461ba9ed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1fc4ffe877829d47773377d4461ba9ed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\c29ba0517b44e0cd0747be6b563a6b36\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\c29ba0517b44e0cd0747be6b563a6b36\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9dc8c8c80000187236192e64c3403e3e\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9dc8c8c80000187236192e64c3403e3e\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9e47944ba516859f4b70836000dd576e\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9e47944ba516859f4b70836000dd576e\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\ca23a85d0f93359ac87be3a8821193c4\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\ca23a85d0f93359ac87be3a8821193c4\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\c8c91219ff6b2890fe275415cd6a334b\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\c8c91219ff6b2890fe275415cd6a334b\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\f3547f987360741be529efbe58ecaadf\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\f3547f987360741be529efbe58ecaadf\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a34664ef4edbffd3f4b1c84b1bfc8234\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a34664ef4edbffd3f4b1c84b1bfc8234\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3c41c7c1888f6e0c3cc570fb0d00c7fe\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3c41c7c1888f6e0c3cc570fb0d00c7fe\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\ba9acce1a78141b69de4c7e5a929d5a1\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\ba9acce1a78141b69de4c7e5a929d5a1\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\feaa52f4ce6b7a399332b13c32d85fe6\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\feaa52f4ce6b7a399332b13c32d85fe6\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\804baaa19aebf4ae96f8a291d63eb7bf\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\804baaa19aebf4ae96f8a291d63eb7bf\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\b20b6e7645190b571ce32ea7a8ca0ae8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\b20b6e7645190b571ce32ea7a8ca0ae8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a30aa37f357531d5d3c6468df14437f8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a30aa37f357531d5d3c6468df14437f8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\93c1ac03067aa7a060dc8ec504e6cd26\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\93c1ac03067aa7a060dc8ec504e6cd26\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\41097b2e7b4849ef18a8faaf470af93c\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\41097b2e7b4849ef18a8faaf470af93c\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\d43dc3eebec8dc7344bdddd3b709e666\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\d43dc3eebec8dc7344bdddd3b709e666\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\ea948680fc1029a5c5c9690b7f312355\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\ea948680fc1029a5c5c9690b7f312355\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6ee9becff7a7cc2c8818dd0266055245\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6ee9becff7a7cc2c8818dd0266055245\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\333db6cd639c6a0876ea29d58be354f8\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\333db6cd639c6a0876ea29d58be354f8\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3ff27da300b81242be69f3d75d166010\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3ff27da300b81242be69f3d75d166010\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\e3ed7f641bae9ea80abf5c0db859506d\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\e3ed7f641bae9ea80abf5c0db859506d\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3b5d12ce0eea08739c778842b0db1849\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\3b5d12ce0eea08739c778842b0db1849\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\8892a9c25acd4c36f9df4d6dfa73177c\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\8892a9c25acd4c36f9df4d6dfa73177c\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a45c6f2e0ba4b9149a1cccc4ecb71f18\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a45c6f2e0ba4b9149a1cccc4ecb71f18\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\f5ca9502ec65f5f616fe1c6a45289b7c\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\f5ca9502ec65f5f616fe1c6a45289b7c\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\c5b33cad22cc40b2c8895845b0092cfc\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\c5b33cad22cc40b2c8895845b0092cfc\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\edff7343ec942ed573547a50f38dfb94\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\edff7343ec942ed573547a50f38dfb94\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\dad1120c8092fd8b5e20b4b6c5cefd7f\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\dad1120c8092fd8b5e20b4b6c5cefd7f\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\62f3afb1896945826b4117eae7037368\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\62f3afb1896945826b4117eae7037368\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\10d50eacd27163c6a3a294ad2ee9ca32\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\10d50eacd27163c6a3a294ad2ee9ca32\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\23c512ddfc2ba97e93d605cbae0c4ad6\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\23c512ddfc2ba97e93d605cbae0c4ad6\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6a4174c52388a40e7dfa3043732f1bce\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6a4174c52388a40e7dfa3043732f1bce\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0a8733ed0bc31d322c9a0dcca9aca8e3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0a8733ed0bc31d322c9a0dcca9aca8e3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\076cbbc53fde27d2aae282562eecbdd7\lifecycle-livedata-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\076cbbc53fde27d2aae282562eecbdd7\lifecycle-livedata-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\36d0742c2597aecfdad6251c9ca445fd\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\36d0742c2597aecfdad6251c9ca445fd\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\bff90840bdfae9b6f89cbecc92c57a28\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\bff90840bdfae9b6f89cbecc92c57a28\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1574aa8adc94f33593141b6102c45d9a\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1574aa8adc94f33593141b6102c45d9a\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\88727d1fb0d03aa1c9d30d270fff0f15\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\88727d1fb0d03aa1c9d30d270fff0f15\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\031b2f6b146848f6faee983e3dff6b60\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\031b2f6b146848f6faee983e3dff6b60\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6aa3bc5feac089396f96694b738fe971\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\6aa3bc5feac089396f96694b738fe971\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\f1bda069cc0ebf7379fed866c8700b0a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\f1bda069cc0ebf7379fed866c8700b0a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9590a4bb01e134567fdbc8c4073e2582\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\9590a4bb01e134567fdbc8c4073e2582\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\d2b637ac9810df88c1c40113091c2642\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\d2b637ac9810df88c1c40113091c2642\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\bdb55a2b05f00a730cbfcf032da6ccc3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\bdb55a2b05f00a730cbfcf032da6ccc3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\779496e50676ed764d67e01207ac20c6\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\779496e50676ed764d67e01207ac20c6\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\2c0308a05d49b9539fff1110c101f6bf\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\2c0308a05d49b9539fff1110c101f6bf\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\49ef2b9ac74c80fc629a81e6f351bb25\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\49ef2b9ac74c80fc629a81e6f351bb25\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ruo20\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\031b2f6b146848f6faee983e3dff6b60\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\031b2f6b146848f6faee983e3dff6b60\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha04] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\0c89c876132e68351a54964b6ecdc335\work-runtime-2.7.0-alpha04\AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1faab07be8c91ba89fcfe243941c3770\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1faab07be8c91ba89fcfe243941c3770\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1faab07be8c91ba89fcfe243941c3770\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\1faab07be8c91ba89fcfe243941c3770\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a45c6f2e0ba4b9149a1cccc4ecb71f18\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a45c6f2e0ba4b9149a1cccc4ecb71f18\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a45c6f2e0ba4b9149a1cccc4ecb71f18\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a45c6f2e0ba4b9149a1cccc4ecb71f18\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\ruo20\.gradle\caches\transforms-2\files-2.1\a45c6f2e0ba4b9149a1cccc4ecb71f18\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

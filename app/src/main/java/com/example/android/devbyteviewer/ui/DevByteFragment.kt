@@ -203,7 +203,6 @@ class DevByteAdapter(val callback: VideoClick) : RecyclerView.Adapter<DevByteVie
      * update the contents of the {@link ViewHolder#itemView} to reflect the item at the given
      * position.
      */
-    // i told banana - baby to poop - tell dady to fart - block guoguo's eyes - scratch.mit.edu because guoguo is shit - playing games when heehee - baby is vanished - not there cuz - which is bad - good debug
     override fun onBindViewHolder(holder: DevByteViewHolder, position: Int) {
         holder.viewDataBinding.also {
             it.video = videos[position]
