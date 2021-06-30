@@ -4,12 +4,10 @@ androidx/databinding/DataBinderMapperImpl.java
  androidx.databinding.DataBinderMapperImpl
 com/example/android/devbyteviewer/DataBindingTriggerClass.java
  com.example.android.devbyteviewer.DataBindingTriggerClass
-com/example/android/devbyteviewer/databinding/DevbyteItemBindingImpl.java
- com.example.android.devbyteviewer.databinding.DevbyteItemBindingImpl
-com/example/android/devbyteviewer/database/VideoDao_Impl.java
- com.example.android.devbyteviewer.database.VideoDao_Impl
- com.example.android.devbyteviewer.database.VideoDao_Impl$1
- com.example.android.devbyteviewer.database.VideoDao_Impl$2
+com/example/android/devbyteviewer/databinding/FragmentDevByteBindingImpl.java
+ com.example.android.devbyteviewer.databinding.FragmentDevByteBindingImpl
+com/example/android/devbyteviewer/databinding/FragmentDevByteBinding.java
+ com.example.android.devbyteviewer.databinding.FragmentDevByteBinding
 androidx/databinding/library/baseAdapters/BR.java
  androidx.databinding.library.baseAdapters.BR
 com/example/android/devbyteviewer/BuildConfig.java
@@ -28,7 +26,9 @@ com/example/android/devbyteviewer/DataBinderMapperImpl.java
 com/example/android/devbyteviewer/generated/callback/OnClickListener.java
  com.example.android.devbyteviewer.generated.callback.OnClickListener
  com.example.android.devbyteviewer.generated.callback.OnClickListener$Listener
-com/example/android/devbyteviewer/databinding/FragmentDevByteBindingImpl.java
- com.example.android.devbyteviewer.databinding.FragmentDevByteBindingImpl
-com/example/android/devbyteviewer/databinding/FragmentDevByteBinding.java
- com.example.android.devbyteviewer.databinding.FragmentDevByteBinding
+com/example/android/devbyteviewer/database/VideoDao_Impl.java
+ com.example.android.devbyteviewer.database.VideoDao_Impl
+ com.example.android.devbyteviewer.database.VideoDao_Impl$1
+ com.example.android.devbyteviewer.database.VideoDao_Impl$2
+com/example/android/devbyteviewer/databinding/DevbyteItemBindingImpl.java
+ com.example.android.devbyteviewer.databinding.DevbyteItemBindingImpl
