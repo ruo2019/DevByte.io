@@ -17,6 +17,9 @@
 package com.example.android.devbyteviewer
 
 import android.app.Application
+import androidx.work.PeriodicWorkRequestBuilder
+import com.example.android.devbyteviewer.work.RefreshDataWorker
+import java.util.concurrent.TimeUnit
 
 /**
  * Override application to setup background work via WorkManager
@@ -31,5 +34,12 @@ class DevByteApplication : Application() {
      */
     override fun onCreate() {
         super.onCreate()
+    }
+
+    /**
+     * Setup WorkManger background job to 'fetch' new network data daily.
+     */
+    private fun setupRecurringWork() {
+        val repeatingRequest = PeriodicWorkRequestBuilder<RefreshDataWorker>(1, TimeUnit.DAYS).build()
     }
 }
