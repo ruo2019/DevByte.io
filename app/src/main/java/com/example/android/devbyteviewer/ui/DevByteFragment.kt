@@ -97,6 +97,7 @@ class DevByteFragment : Fragment() {
                 R.layout.fragment_dev_byte,
                 container,
                 false)
+
         // Set the lifecycleOwner so DataBinding can observe LiveData
         binding.setLifecycleOwner(viewLifecycleOwner)
 

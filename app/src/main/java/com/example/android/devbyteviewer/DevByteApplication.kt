@@ -18,10 +18,12 @@ package com.example.android.devbyteviewer
 
 import android.app.Application
 import android.app.job.JobInfo
-import android.app.job.JobScheduler
-import android.app.job.JobWorkItem
+import android.content.ComponentName
+import android.os.Build
 import androidx.work.*
+import com.conkermobileX.plywood.logDebug
 import com.example.android.devbyteviewer.work.RefreshDataWorker
+import com.example.android.devbyteviewer.work.RefreshDataWorker.Companion.WORK_NAME
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -49,15 +51,19 @@ class DevByteApplication : Application() {
      * Setup WorkManger background job to 'fetch' new network data daily.
      */
     private fun setupRecurringWork() {
-        val constraints = Constraints.Builder().setRequiredNetworkType(NetworkType.UNMETERED).build()
-        val repeatingRequest = PeriodicWorkRequestBuilder<RefreshDataWorker>(15, TimeUnit.MINUTES).setConstraints(constraints).build()
+        val constraints = Constraints.Builder().setRequiredNetworkType(NetworkType.UNMETERED).setRequiresBatteryNotLow(true).setRequiresCharging(true).apply {
+            setRequiresDeviceIdle(true)
+        }.build()
+        val repeatingRequest = PeriodicWorkRequestBuilder<RefreshDataWorker>(1, TimeUnit.DAYS)
+            .setConstraints(constraints)
+            .build()
+        logDebug("Periodic Work request for sync is scheduled")
         WorkManager.getInstance().enqueueUniquePeriodicWork(
             RefreshDataWorker.WORK_NAME,
             ExistingPeriodicWorkPolicy.KEEP,
-            repeatingRequest
-        )
+            repeatingRequest)
     }
-
+// what the - was going poop -
     private fun delayedInit() {
         applicationScope.launch {
             setupRecurringWork()
